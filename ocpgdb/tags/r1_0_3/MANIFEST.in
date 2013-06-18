@@ -1,0 +1,4 @@
+include tests.py
+include TODO
+recursive-include oclibpq *.[ch]
+recursive-include misc *.py
